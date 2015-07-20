@@ -5,9 +5,9 @@ Desktop Java Swing application that sends push notifications to the Android app 
 Here are the steps to use the notification sender application and the notificaion client application:
 
 1.  Set up GCM (Google cloud messaging).  You need a gmail account for this:
-  a. https://console.developers.google.com/project
-  b. Create a new project
-  c. Go to APIs & Auth->APIs->Cloud Messaging Android and Enable it
+  * a. https://console.developers.google.com/project
+  * b. Create a new project
+  * c. Go to APIs & Auth->APIs->Cloud Messaging Android and Enable it
 
 2.  Replace GCMConstants.PROJECT_API_KEY with your API key found at APIs & Auth->APIs->Credentials
 
