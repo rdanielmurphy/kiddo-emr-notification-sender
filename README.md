@@ -2,9 +2,9 @@
 
 Desktop Java Swing application that sends push notifications to the Android app (kiddo-emr-notification-client).
 
-This app as well as the client was app created at a hackathon for Kiddo EMR (http://www.kiddoemr.com/), with the purpose of creating a way for doctors to send health tips to their patients.
+This app as well as the client app was created at a hackathon for Kiddo EMR (http://www.kiddoemr.com/), with the purpose of creating a way for doctors to send health tips to their patients.
 
-Here are the steps to use the notification sender application and the notificaion client application:
+Here are the steps to use the notification sender application and the notification client application:
 
 1.  Set up GCM (Google cloud messaging).  You need a gmail account for this:
   * a. https://console.developers.google.com/project
